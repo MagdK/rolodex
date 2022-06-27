@@ -19,7 +19,8 @@ body {
     margin-top: 75px;
     margin-bottom: 50px;
     font-size: 76px;
-    font-family: 'DM Serif Text', serif;;
+    font-family: 'DM Serif Text', serif;
+    letter-spacing: 0.2rem;
     color: #0ccac4;
   }
 }
@@ -29,7 +30,8 @@ body {
     margin-top: 48px;
     margin-bottom: 48px;
     font-size: 48px;
-    font-family: 'DM Serif Text', serif;;
+    font-family: 'DM Serif Text', serif;
+    letter-spacing: 0.2rem;
     color: #0ccac4;
   }
 }
