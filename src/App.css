@@ -14,10 +14,22 @@ body {
   text-align: center;
 }
 
-.app-title {
-  margin-top: 75px;
-  margin-bottom: 50px;
-  font-size: 76px;
-  font-family: 'DM Serif Text', serif;;
-  color: #0ccac4;
+@media only screen and (min-width: 929px) {
+  .app-title {
+    margin-top: 75px;
+    margin-bottom: 50px;
+    font-size: 76px;
+    font-family: 'DM Serif Text', serif;;
+    color: #0ccac4;
+  }
+}
+
+@media only screen and (max-width: 928px) {
+  .app-title {
+    margin-top: 48px;
+    margin-bottom: 48px;
+    font-size: 48px;
+    font-family: 'DM Serif Text', serif;;
+    color: #0ccac4;
+  }
 }
