@@ -6,8 +6,8 @@ import './card-list.styles.css';
 class CardList extends Component {
 
     render() {
-        console.log(this.props.monsters);
-        console.log('render from CardList');
+        // console.log(this.props.monsters);
+        // console.log('render from CardList');
         const { monsters } = this.props;
 
         return (
