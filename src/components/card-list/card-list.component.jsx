@@ -9,5 +9,4 @@ const CardList = ({ monsters }) => {
     </div>
 }
 
-
 export default CardList;
