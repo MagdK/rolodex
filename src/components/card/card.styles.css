@@ -2,9 +2,10 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: #95dada;
-    border: 1px solid grey;
-    border-radius: 5px;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 2rem;
+    box-shadow: 0.2rem 0.4rem 12rem rgb(0 0 0 / 8%);
     padding: 25px;
     cursor: pointer;
     -moz-osx-font-smoothing: grayscale;
@@ -15,4 +16,5 @@
 
 .card-container:hover {
     transform: scale(1.05);
+    box-shadow: 0.2rem 0.4rem 4rem rgb(0 0 0 / 16%);
 }

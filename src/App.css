@@ -8,8 +8,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background: linear-gradient(
     to left,
-    rgba(7, 27, 82, 1) 0%,
-    rgba(0, 128, 128, 1) 100%
+    rgb(236, 235, 235) 0%,
+    rgba(245, 245, 245, 1) 100%
   );
   text-align: center;
 }
@@ -21,7 +21,7 @@ body {
     font-size: 76px;
     font-family: 'DM Serif Text', serif;
     letter-spacing: 0.2rem;
-    color: #0ccac4;
+    color: #1D1D1D;
   }
 }
 
@@ -32,6 +32,6 @@ body {
     font-size: 48px;
     font-family: 'DM Serif Text', serif;
     letter-spacing: 0.2rem;
-    color: #0ccac4;
+    color: #1D1D1D;
   }
 }
